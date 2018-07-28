@@ -20,6 +20,8 @@ One stop shop for everything of interest - we are many..
 
 ## Kubernetes 
 
+### Helm
+* [Helmfile](https://github.com/roboll/helmfile): **"Deploy Kubernetes Helm Charts"**
 ### Utilities
 * [Kube Shell](https://github.com/cloudnativelabs/kube-shell): **"An integrated shell for working with the Kubernetes"**
 * [Jump-pod: CentOS 7](https://github.com/openshift-evangelists/kbe/blob/master/specs/sd/jumpod.yaml)
@@ -57,6 +59,7 @@ One stop shop for everything of interest - we are many..
 ## Collaborative 
 
 ### Atlassian 
+* [Jira Confluence deploy with Helm - ITNext.io ](https://itnext.io/jira-on-kubernetes-by-helm-8a38357da4e): [Github link](https://github.com/int128/devops-kompose)
 * [Jira - on Docker](https://community.atlassian.com/t5/Jira-articles/How-to-run-Jira-in-a-docker-container/ba-p/752697): **"How to run Jira in a docker container"**
 * [Jira image - Oracle JDK](https://hub.docker.com/r/frogbis/jira-software/): [Github page](https://github.com/FRoGbis/jira-software)
 * [Atlassian Docker builder - with ansible](https://bitbucket.org/adockers/atlassian-docker-builder?_ga=2.223612827.1449807712.1532704686-633674885.1527693367): [Github](https://github.com/sdscgithub/atlassian-docker-builder)
